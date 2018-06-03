@@ -1,4 +1,6 @@
 a = 1
 # this for pratice reset 
-c = 3 
-# back and reTest
+b = 2
+# this for partice checkout and return
+
+# i was changed to dev branch
